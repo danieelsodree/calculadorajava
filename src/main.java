@@ -6,7 +6,6 @@ public class main {
         int n1;
         int n2;
         int opcao;
-        String desejaRepetir;
 
         System.out.println("CALCULADORA BÁSICA");
         System.out.println("1- SOMA");
@@ -54,7 +53,6 @@ public class main {
                 int nf = n1 / n2;
                 System.out.println("A divisão de " + n1 + " / " + n2 + " é = " + nf);
             }
-
         break;
         }
 
